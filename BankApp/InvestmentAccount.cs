@@ -26,6 +26,7 @@ namespace BankApp
 
                     });
                     break;
+                default:break;
             }
 
             return a;
