@@ -26,7 +26,7 @@ namespace BankApp
             }
            catch(Exception e)
             {
-                throw; //at this point some erro handling like logging should happen
+                throw e; //at this point some error handling like logging should happen
             }
         }
       
